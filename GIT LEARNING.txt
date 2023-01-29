@@ -1,0 +1,14 @@
+	GIT
+	----
+	(Learning Git in details)
+	
+	git ADD
+	git COMMIT
+	git PUSH
+	git FETCH
+	git MERGE
+	git PULL = git FETCH + git MERGE
+	git CHERRY PICK
+	git REVERT
+	
+	BRANCHES
